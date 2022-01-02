@@ -1,0 +1,15 @@
+D:\GitHub\UnityCodes\bin\Debug\net6.0\UnityCodes.exe
+D:\GitHub\UnityCodes\bin\Debug\net6.0\UnityCodes.deps.json
+D:\GitHub\UnityCodes\bin\Debug\net6.0\UnityCodes.runtimeconfig.json
+D:\GitHub\UnityCodes\bin\Debug\net6.0\UnityCodes.dll
+D:\GitHub\UnityCodes\bin\Debug\net6.0\ref\UnityCodes.dll
+D:\GitHub\UnityCodes\bin\Debug\net6.0\UnityCodes.pdb
+D:\GitHub\UnityCodes\obj\Debug\net6.0\UnityCodes.csproj.AssemblyReference.cache
+D:\GitHub\UnityCodes\obj\Debug\net6.0\UnityCodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\UnityCodes\obj\Debug\net6.0\UnityCodes.AssemblyInfoInputs.cache
+D:\GitHub\UnityCodes\obj\Debug\net6.0\UnityCodes.AssemblyInfo.cs
+D:\GitHub\UnityCodes\obj\Debug\net6.0\UnityCodes.csproj.CoreCompileInputs.cache
+D:\GitHub\UnityCodes\obj\Debug\net6.0\UnityCodes.dll
+D:\GitHub\UnityCodes\obj\Debug\net6.0\ref\UnityCodes.dll
+D:\GitHub\UnityCodes\obj\Debug\net6.0\UnityCodes.pdb
+D:\GitHub\UnityCodes\obj\Debug\net6.0\UnityCodes.genruntimeconfig.cache
